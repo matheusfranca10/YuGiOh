@@ -1,6 +1,5 @@
 # Yu-Gi-Oh! Jokenpo
 
-![Yu-Gi-Oh!](https://upload.wikimedia.org/wikipedia/commons/3/3b/Yu-Gi-Oh%21_Logo.svg)
 
 ## Sobre o Projeto
 
